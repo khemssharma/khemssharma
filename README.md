@@ -2,7 +2,7 @@
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
   Hi, I'm <a href="http://ayushportfolio-teal.vercel.app"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Ayush's GitHub Avatar" width="60px"/> Ayush</a>!
-  <img align="right" src="https://komarev.com/ghpvc/?username=kc-sharma" alt="GitHub profile views counter">
+  <img align="right" src="https://komarev.com/ghpvc/?username=ayushshanks" alt="GitHub profile views counter">
 </h1>
 
 <div>
@@ -78,20 +78,22 @@
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
   ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 
-<br/>
 
-<a href="https://github.com/kc-sharma" target="_blank">
+
+<br/>
+<a href="https://github.com/ayushshanks" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kc-sharma&theme=onedark" alt="ayush-sharma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushshanks&theme=onedark" alt="ayush-sharma" /></a> </p>
 
 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kc-sharma&show_icons=true&locale=en&theme=dark" alt="ayush-sharma" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushshanks&show_icons=true&locale=en&theme=dark" alt="ayush-sharma" />
   </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc-sharma&layout=compact&theme=dark" alt="manav-khadka" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshanks&layout=compact&theme=dark" alt="manav-khadka" />
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshanks&theme=dark" alt="ayush-sharma" /></p>
