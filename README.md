@@ -88,8 +88,8 @@
 </a>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kc-sharma&show_icons=true&locale=en" alt="ayush-sharma" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kc-sharma&" alt="manav-khadka" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kc-sharma&show_icons=true&locale=en&theme=dark" alt="ayush-sharma" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc-sharma&layout=compact&theme=dark" alt="manav-khadka" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kc-sharma" alt="ayush-sharma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kc-sharma&theme=onedark" alt="ayush-sharma" /></a> </p>
