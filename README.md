@@ -79,11 +79,14 @@
   ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kc-sharma&theme=onedark" alt="ayush-sharma" /></a> </p>
 
 <a href="https://github.com/kc-sharma" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kc-sharma&theme=onedark" alt="ayush-sharma" /></a> </p>
+
+
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kc-sharma&show_icons=true&locale=en&theme=dark" alt="ayush-sharma" />
