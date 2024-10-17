@@ -18,10 +18,18 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3  # Updated to v3
 
+    # Ensure the dist/ directory exists
+    - name: Create dist directory
+      run: mkdir -p dist
+
     - name: Generate snake game
       uses: Platane/snk@v3
       with:
         github_user_name: ayushshanks
+
+    # Check if files exist for debugging (optional)
+    - name: List dist directory contents
+      run: ls -la dist/
 
     # Upload artifacts for download if needed
     - name: Upload artifacts
@@ -29,11 +37,11 @@ jobs:
       with:
         name: snake-outputs
         path: dist/
-    
+
     # Optional: Commit and push the generated snake files to the repository
     - name: Commit and push changes
       run: |
-        git config --global user.email "you@example.com"
+        git config --global user.email ayushsharma3310@gmail.com
         git config --global user.name "GitHub Action"
         git add dist/
         git commit -m "Add generated snake SVG and GIF"
