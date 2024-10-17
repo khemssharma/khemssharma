@@ -16,13 +16,25 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3  # Updated to v3
 
     - name: Generate snake game
       uses: Platane/snk@v3
       with:
         github_user_name: ayushshanks
-        outputs: |
-          dist/github-snake.svg
-          dist/github-snake-dark.svg?palette=github-dark
-          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+    # Upload artifacts for download if needed
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: snake-outputs
+        path: dist/
+    
+    # Optional: Commit and push the generated snake files to the repository
+    - name: Commit and push changes
+      run: |
+        git config --global user.email "you@example.com"
+        git config --global user.name "GitHub Action"
+        git add dist/
+        git commit -m "Add generated snake SVG and GIF"
+        git push
