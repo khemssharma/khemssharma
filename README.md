@@ -88,7 +88,6 @@
   ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-  ![GH Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
   ![Google CLoud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
   ![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat&logo=google&logoColor=black)
