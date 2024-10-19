@@ -44,7 +44,7 @@
 
   ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khemchand-sharma-325654193) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khemchand-sharma-325654193) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 
 
   ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Skills:</div>
@@ -55,16 +55,28 @@
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white))
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
   ![ContextAPI](https://img.shields.io/badge/ContextAPI-61DAFB?style=flat&logo=react&logoColor=black)
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
   ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
   ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
   ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+  ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -72,11 +84,18 @@
   ![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+  ![Wix](https://img.shields.io/badge/Wix-000?style=flat&logo=wix&logoColor=white)
   ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+  ![GH Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+  ![Google CLoud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  ![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat&logo=google&logoColor=black)
   ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 
 
