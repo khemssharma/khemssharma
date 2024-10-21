@@ -112,3 +112,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshanks&theme=dark" alt="ayush-sharma" /></p>
+
+[![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushshanks&theme=dark)]( https://github.com/ryo-ma/github-profile-trophy )
+
+> ### "Ride the waves, Good vibes ahead" 🌊 Ayush
