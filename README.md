@@ -102,17 +102,15 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ayushshanks&theme=onedark" alt="ayush-sharma" /> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushshanks&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayush-sharma" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushshanks&show_icons=true&locale=en&theme=dark" alt="ayush-sharma" /></p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushshanks&show_icons=true&locale=en&theme=dark" alt="ayush-sharma" />
-  </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshanks&layout=compact&theme=dark" alt="ayush- sharma" />
-</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshanks&theme=dark" alt="ayush-sharma" /></p>
 
 ![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushshanks&theme=dark)
 
-> ### "Ride the waves, Good vibes ahead" 🌊 Ayush
+> ### "Ride the waves, Good vibes ahead" -Ayush
+> 
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
