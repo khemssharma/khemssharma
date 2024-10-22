@@ -106,7 +106,7 @@
 
 ## <img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon"> GitHub Summary
 
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushshanks&theme=transparent&hide_border=true)
+![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushshanks&theme=radical&layout=compact)
 
 > ### "Ride the waves, Good vibes ahead" -Ayush
 > 
