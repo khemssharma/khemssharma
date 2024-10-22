@@ -94,22 +94,19 @@
   ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 
 
+# <img align="center" width="30px" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon" /> GitHub Stats:
 
-<br/>
-<a href="https://github.com/ayushshanks" target="_blank">
-  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
-</a>
+| ![](https://github-readme-stats.vercel.app/api?username=ayushshanks&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshanks&theme=merko&hide_border=true&layout=compact&bg_color=0E1117)](https://github.com/Uxoa/github-readme-stats) |
+| ---      | ---      | 
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ayushshanks&theme=onedark" alt="ayush-sharma" /> </p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayushshanks&theme=radical&hide_border=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushshanks&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayush-sharma" /></p>
+## <img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon"> GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ayushshanks&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=9)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushshanks&show_icons=true&locale=en&theme=dark" alt="ayush-sharma" /></p>
+## <img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon"> GitHub Summary
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshanks&theme=dark" alt="ayush-sharma" /></p>
-
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushshanks&theme=dark)
+![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushshanks&theme=transparent&hide_border=true)
 
 > ### "Ride the waves, Good vibes ahead" -Ayush
 > 
