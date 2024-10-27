@@ -33,14 +33,6 @@
   </li>
 </ul>
 
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ayushshanks/ayushshanks/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ayushshanks/ayushshanks/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/ayushshanks/ayushshanks/blob/output/github-contribution-grid-snake-dark.svg">
-</picture>
-</div>
-
 
   ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
 
@@ -60,14 +52,12 @@
   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
   ![ContextAPI](https://img.shields.io/badge/ContextAPI-61DAFB?style=flat&logo=react&logoColor=black)
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
   ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
   ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
-  ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
   ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
   ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -96,18 +86,30 @@
 
 # <img align="center" width="30px" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon" /> GitHub Stats:
 
+<div align="left">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ayushshanks/ayushshanks/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ayushshanks/ayushshanks/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/ayushshanks/ayushshanks/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
+</div>
+
 | ![](https://github-readme-stats.vercel.app/api?username=ayushshanks&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshanks&theme=merko&hide_border=true&layout=compact&bg_color=0E1117)](https://github.com/Uxoa/github-readme-stats) |
 | ---      | ---      | 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushshanks&theme=radical&hide_border=true)
 
+ 
 ## <img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon"> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayushshanks&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=9)
 
-## <img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon"> GitHub Summary
+<!-- 
+ ## <img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon"> GitHub Summary
 
 ![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushshanks&theme=radical&layout=compact)
+ 
+ -->
 
-> ### "Ride the waves, Good vibes ahead" -Ayush
+> ## Ride the waves, good vibes ahead!
 > 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
