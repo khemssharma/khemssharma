@@ -2,7 +2,7 @@
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
   Hi, I'm <a href="http://ayushportfolio-teal.vercel.app"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Ayush's GitHub Avatar" width="60px"/> Ayush</a>!
-  <img align="right" src="https://komarev.com/ghpvc/?username=ayushshanks" alt="GitHub profile views counter">
+  <img align="right" src="https://komarev.com/ghpvc/?username=khemssharma" alt="GitHub profile views counter">
 </h1>
 
 <div>
@@ -88,25 +88,25 @@
 
 <div align="left">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ayushshanks/ayushshanks/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ayushshanks/ayushshanks/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/ayushshanks/ayushshanks/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 </div>
 
-| ![](https://github-readme-stats.vercel.app/api?username=ayushshanks&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshanks&theme=merko&hide_border=true&layout=compact&bg_color=0E1117)](https://github.com/Uxoa/github-readme-stats) |
+| ![](https://github-readme-stats.vercel.app/api?username=khemssharma&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&theme=merko&hide_border=true&layout=compact&bg_color=0E1117)](https://github.com/Uxoa/github-readme-stats) |
 | ---      | ---      | 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayushshanks&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=khemssharma&theme=radical&hide_border=true)
 
  
 ## <img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon"> GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayushshanks&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=9)
+![](https://github-profile-trophy.vercel.app/?username=khemssharma&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=9)
 
 <!-- 
  ## <img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon"> GitHub Summary
 
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushshanks&theme=radical&layout=compact)
+![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khemssharma&theme=radical&layout=compact)
  
  -->
 
