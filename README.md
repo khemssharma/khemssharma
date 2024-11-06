@@ -1,9 +1,8 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hello, I'm <a href="http://ayushportfolio-teal.vercel.app"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Ayush's GitHub Avatar" width="45px"/> Ayush</a>!
-</h1>
-
+  Hello, I'm <a href="http://ayushportfolio-teal.vercel.app"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Ayush's GitHub Avatar" width="45px"/> Ayush</a>! <div align="center"><img align="right" src="https://komarev.com/ghpvc/?username=khemssharma" alt="GitHub profile views counter"></div>
+</h1>  
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
@@ -105,12 +104,13 @@
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khemssharma&theme=radical&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&layout=compact&theme=radical&hide_border=false" alt="Top Languages"/>
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&theme=merko&hide_border=true&layout=compact&bg_color=0E1117" alt="Top Languages" />
+</p>
+<!--
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=khemssharma&theme=radical&hide_border=true)
+-->
 
  
 ## <img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon"> GitHub Trophies
@@ -131,4 +131,4 @@
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
-Thank you for stopping by! 😊 Feel free to explore, connect, or reach out—I'd love to hear from you. Contributions and feedback are always welcome!
+**Thank you for stopping by! 😊 Feel free to explore, connect, or reach out—I'd love to hear from you. Contributions and feedback are always welcome!**
