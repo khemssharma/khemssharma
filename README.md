@@ -37,12 +37,12 @@
 - **Personal Portfolio** 🌐 - A modern, responsive web portfolio showcasing my projects, built with React and optimized for mobile and desktop views.
 
 
-## <div> 🌐 Let's Stay Connected:</div>
+## <div> 🌐 Let's Stay Connected</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khemssharma) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 
 
-## <div>💻 Technical Skills:</div>
+## <div>💻 Technical Skills</div>
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -95,7 +95,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 
-# <img align="center" width="30px" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon" />  GitHub Stats:
+## <img align="center" width="30px" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon" />  GitHub Stats
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake-dark.svg">
