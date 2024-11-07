@@ -114,7 +114,8 @@
 
  
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khemssharma&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=9)
+[![Profile Trophies](https://github-profile-trophy.vercel.app/?username=khemssharma&theme=juicyfresh&column=-1&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- 
  ## <img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon"> GitHub Summary
