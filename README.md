@@ -30,7 +30,7 @@
   </li>
 </ul>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Featured Projects
+## 🚀 Featured Projects
 
 - <a href = "https://github.com/khemssharma/StudyNotion">**Studynotion**</a> 📖 -
   Education platform with features like video lectures uploading, buying/selling and streaming  </br>  </br>
