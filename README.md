@@ -82,7 +82,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=juicyfresh&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&theme=juicyfresh&hide_border=true&layout=compact&bg_color=0E1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&theme=radical&hide_border=true&layout=compact&bg_color=0E1117" alt="Top Languages" />
 </p>
 
 <!--
