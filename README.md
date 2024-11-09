@@ -72,6 +72,7 @@
 
 ## <img align="center" width="30px" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon" />  GitHub Stats
 <div align="center">
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake.svg">
@@ -83,6 +84,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&theme=merko&hide_border=true&layout=compact&bg_color=0E1117" alt="Top Languages" />
 </p>
+
 <!--
   ![](https://github-readme-streak-stats.herokuapp.com/?user=khemssharma&theme=radical&hide_border=true)
 -->
@@ -99,6 +101,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
+
  <div align='center'>
  Ride the waves, ❤️ good vibes ❤️  ahead!
 </div>
@@ -106,3 +109,6 @@
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
   
   Thank you for stopping by! 😊 Feel free to explore, connect, or reach out—I'd love to hear from you. Contributions and feedback are always welcome!
+  
+
+  ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=khemssharma&theme=juicyfresh&column=-1&no-frame=true&no-bg=true)
