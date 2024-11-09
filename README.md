@@ -81,8 +81,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&theme=merko&hide_border=true&layout=compact&bg_color=0E1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=juicyfresh&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&theme=juicyfresh&hide_border=true&layout=compact&bg_color=0E1117" alt="Top Languages" />
 </p>
 
 <!--
@@ -93,12 +93,12 @@
 <!-- 
  ## <img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon"> GitHub Summary
 
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khemssharma&theme=radical&layout=compact)
+![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khemssharma&theme=juicyfresh&layout=compact)
  
  -->
  
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=juicyfresh)
 
 ---
 
