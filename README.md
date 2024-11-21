@@ -107,8 +107,5 @@
 </div>
 
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-  
-  Thank you for stopping by! 😊 Feel free to explore, connect, or reach out—I'd love to hear from you. Contributions and feedback are always welcome!
-  
 
   ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=khemssharma&theme=juicyfresh&column=-1&no-frame=true&no-bg=true)
