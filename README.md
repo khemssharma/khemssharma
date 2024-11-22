@@ -14,32 +14,46 @@
 <div align='center'><h1> 🚀 Featured Projects </h3></div>
 <table width='100%' align='center'>
   <tr width='100%'>
+    <td width='20%' align='center'><strong>Name<strong></td>
+    <td width='30%' align='center'><strong>Summary<strong></td>
+    <td width='30%' align='center'><strong>Technologies Used<strong></td>
+    <td width='10%' align='center'><strong>Source Code<strong></a></td>
+    <td width='10%' align='center'><strong>Live Demo<strong></a>
+  </tr>
+  <tr width='100%'>
     <td width='20%' align='center'>Studynotion</td>
-    <td width='25%' align='center'>Education platform with features like video lectures uploading, buying/selling and streaming</td>
-    <td width='30%' align='center'><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,js,redux,html" /></td>
-    <td width='10%' align='center'><a href = "https://github.com/khemssharma/StudyNotion">🔗Source</a></td>
-    <td width='15%' align='center'><a href = "https://studynotion-six-pied.vercel.app/">🔗Live Demo</a>
+    <td width='30%' align='center'>Education platform with features like video lectures uploading, buying/selling and streaming</td>
+    <td width='30%' align='center'>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,js,redux" />
+      <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs" />
+    </td>
+    <td width='10%' align='center'><a href = "https://github.com/khemssharma/StudyNotion"> 🔗GitHub</a></td>
+    <td width='10%' align='center'><a href = "https://studynotion-six-pied.vercel.app/">🔗Website</a></td>
   </tr>
   <tr width='100%'>
     <td width='20%' align='center'>Chess Improver</td>
-    <td width='25%' align='center'> Browser-based application with live on-game AI comments leveraging StockFish API and ChatGPT API. (Under Development)</td>
-    <td width='30%' align='center'><img src="https://skillicons.dev/icons?i=ts,angular,sass,nodejs,html" /></td>
-    <td width='10%' align='center'><a href = "https://github.com/khemssharma/ChessImprover">🔗Source</a></td>
-    <td width='15%' align='center'><a href = "https://chess-improver.vercel.app/">🔗Live Demo</a>
+    <td width='30%' align='center'> Browser-based application with live on-game AI comments leveraging StockFish API and ChatGPT API. (Under Development)</td>
+    <td width='30%' align='center'><img src="https://skillicons.dev/icons?i=angular,ts,sass,html" /></td>
+    <td width='10%' align='center'><a href = "https://github.com/khemssharma/ChessImprover">🔗Github</a></td>
+    <td width='10%' align='center'><a href = "https://chess-improver.vercel.app/">🔗Website</a></td>
   </tr>
   <tr width='100%'>
     <td width='20%' align='center'>Law-Firm Website</td>
-    <td width='25%' align='center'>An elegant website for your for your customers' queries in accordance to Bar Council of India </td>
-    <td width='30%' align='center'><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,js,html" /></td>
-    <td width='10%' align='center'><a href = "https://github.com/khemssharma/LawFirm">🔗Source</a></td>
-    <td width='15%' align='center'><a href = "https://lawfirm-drab.vercel.app/">🔗 Live Demo</a></td>
+    <td width='30%' align='center'>An elegant website for your customers' queries in accordance of Bar Council of India </td>
+    <td width='30%' align='center'>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,js,html" />
+      <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs" />
+    </td>
+    <td width='10%' align='center'><a href = "https://github.com/khemssharma/LawFirm">🔗GitHub</a></td>
+    <td width='10%' align='center'><a href = "https://lawfirm-drab.vercel.app/">🔗 Website</a></td>
   </tr>
   <tr width='100%'>
     <td width='20%' align='center'>3D Portfolio</td>
-    <td width='25%' align='center'> Portfolio website with seamless animations and 3D models to bring your assets to life!</td>
-    <td width='30%' align='center'><img src="https://skillicons.dev/icons?i=react,threejs,tailwind,js,html" /></td>
-    <td width='10%' align='center'><a href = "https://github.com/khemssharma/3dPortfolio">🔗Source</a></td>
-    <td width='15%' align='center'><a href = "http://ayushportfolio-teal.vercel.app/">🔗 Live Demo</a></td>
+    <td width='30%' align='center'> Portfolio website with seamless animations and 3D models to bring your assets to life!</td>
+    <td width='30%' align='center'>
+      <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,js" /></td>
+    <td width='10%' align='center'><a href = "https://github.com/khemssharma/3dPortfolio">🔗GitHub</a></td>
+    <td width='10%' align='center'><a href = "http://ayushportfolio-teal.vercel.app/">🔗 Website</a></td>
   </tr>
 </table>
 <div align="center">
@@ -50,7 +64,7 @@
 <h1 align='center'> 🛠 Skills </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,flask,html,css,tailwind,sass,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,flask  ,css,tailwind,sass,bootstrap" />
 </p>
 
 <p align="center">
@@ -99,7 +113,8 @@
 
  <div align='center'>
    
-![Profile Trophies](https://github-profile-trophy.vercel.app/?username=khemssharma&theme=juicyfresh&column=-1&no-frame=true&no-bg=true) 
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=khemssharma&theme=juicyfresh&column=-1&no-frame=true&no-bg=true&column=4)
+
 
 </div>
 
