@@ -16,9 +16,9 @@
   <tr width='100%'>
     <td width='10%' align='center'>Studynotion</td>
     <td width='30%' align='center'>Education platform with features like video lectures uploading, buying/selling and streaming</td>
-    <td width='40%' align='center'><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,js,redux,html" /></td>
+    <td width='30%' align='center'><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,js,redux,html" /></td>
     <td width='10%' align='center'><a href = "https://github.com/khemssharma/StudyNotion">🔗Source</a></td>
-    <td width='10%' align='center'><a href = "https://studynotion-six-pied.vercel.app/">🔗Live Demo</a>
+    <td width='20%' align='center'><a href = "https://studynotion-six-pied.vercel.app/">🔗Live Demo</a>
   </tr>
   <tr width='100%'>
     <td width='10%' align='center'>Chess Improver</td>
@@ -42,6 +42,44 @@
     <td width='10%' align='center'><a href = "http://ayushportfolio-teal.vercel.app/">🔗 Live Demo</a></td>
   </tr>
 </table>
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=juicyfresh)
+</div>
+
+<h1 align='center'> 🛠 Skills </h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,flask,html,css,tailwind,sass,bootstrap" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,firebase,appwrite,discordjs,express,nodejs,npm,vite" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,rust,go,c,cpp" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ae,ps,blender" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,cloudflare" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,atom,sublime,pycharm,replit" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,gitlab,git,windows,powershell,linux,bash,docker,arduino" />
+</p>
 
 <div align='center'>
   
