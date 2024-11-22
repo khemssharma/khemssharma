@@ -15,31 +15,31 @@
 <table width='100%' align='center'>
   <tr width='100%'>
     <td width='20%' align='center'>Studynotion</td>
-    <td width='20%' align='center'>Education platform with features like video lectures uploading, buying/selling and streaming</td>
+    <td width='25%' align='center'>Education platform with features like video lectures uploading, buying/selling and streaming</td>
     <td width='30%' align='center'><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,js,redux,html" /></td>
     <td width='10%' align='center'><a href = "https://github.com/khemssharma/StudyNotion">🔗Source</a></td>
-    <td width='20%' align='center'><a href = "https://studynotion-six-pied.vercel.app/">🔗Live Demo</a>
+    <td width='15%' align='center'><a href = "https://studynotion-six-pied.vercel.app/">🔗Live Demo</a>
   </tr>
   <tr width='100%'>
     <td width='20%' align='center'>Chess Improver</td>
-    <td width='20%' align='center'> Browser-based application with live on-game AI comments leveraging StockFish API and ChatGPT API. (Under Development)</td>
+    <td width='25%' align='center'> Browser-based application with live on-game AI comments leveraging StockFish API and ChatGPT API. (Under Development)</td>
     <td width='30%' align='center'><img src="https://skillicons.dev/icons?i=ts,angular,sass,nodejs,html" /></td>
     <td width='10%' align='center'><a href = "https://github.com/khemssharma/ChessImprover">🔗Source</a></td>
-    <td width='20%' align='center'><a href = "https://chess-improver.vercel.app/">🔗Live Demo</a>
+    <td width='15%' align='center'><a href = "https://chess-improver.vercel.app/">🔗Live Demo</a>
   </tr>
   <tr width='100%'>
     <td width='20%' align='center'>Law-Firm Website</td>
-    <td width='20%' align='center'>An elegant website for your for your customers' queries in accordance to Bar Council of India </td>
+    <td width='25%' align='center'>An elegant website for your for your customers' queries in accordance to Bar Council of India </td>
     <td width='30%' align='center'><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,js,html" /></td>
     <td width='10%' align='center'><a href = "https://github.com/khemssharma/LawFirm">🔗Source</a></td>
-    <td width='20%' align='center'><a href = "https://lawfirm-drab.vercel.app/">🔗 Live Demo</a></td>
+    <td width='15%' align='center'><a href = "https://lawfirm-drab.vercel.app/">🔗 Live Demo</a></td>
   </tr>
   <tr width='100%'>
     <td width='20%' align='center'>3D Portfolio</td>
-    <td width='20%' align='center'> Portfolio website with seamless animations and 3D models to bring your assets to life!</td>
+    <td width='25%' align='center'> Portfolio website with seamless animations and 3D models to bring your assets to life!</td>
     <td width='30%' align='center'><img src="https://skillicons.dev/icons?i=react,threejs,tailwind,js,html" /></td>
     <td width='10%' align='center'><a href = "https://github.com/khemssharma/3dPortfolio">🔗Source</a></td>
-    <td width='20%' align='center'><a href = "http://ayushportfolio-teal.vercel.app/">🔗 Live Demo</a></td>
+    <td width='15%' align='center'><a href = "http://ayushportfolio-teal.vercel.app/">🔗 Live Demo</a></td>
   </tr>
 </table>
 <div align="center">
