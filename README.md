@@ -11,6 +11,11 @@
 <p align="center">
   <a href="https://ayushportfolio-teal.vercel.app"><img src="https://readme-typing-svg.herokuapp.com/?lines=Website;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br><br>
+
 <div align='center'><h1> 🚀 Featured Projects </h3></div>
 <table width='100%' align='center'>
   <tr width='100%'>
