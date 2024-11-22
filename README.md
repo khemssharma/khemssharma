@@ -1,110 +1,78 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile!" alt="Typing SVG"/>
+</div>
+<div align='center'>
+  <h3> 🌐 Let's Stay Connected <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
+  </h3>
+    <a href="https://linkedin.com/in/khemssharma">
+      <img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/>
+    </a>
+</div>
+<p align="center">
+  <a href="https://ayushportfolio-teal.vercel.app"><img src="https://readme-typing-svg.herokuapp.com/?lines=Website;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+<div align='center'><h1> 🚀 Featured Projects </h3></div>
+<table width='100%' align='center'>
+  <tr width='100%'>
+    <td width='10%' align='center'>Studynotion</td>
+    <td width='30%' align='center'>Education platform with features like video lectures uploading, buying/selling and streaming</td>
+    <td width='40%' align='center'><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,js,redux,html" /></td>
+    <td width='10%' align='center'><a href = "https://github.com/khemssharma/StudyNotion">🔗Source</a></td>
+    <td width='10%' align='center'><a href = "https://studynotion-six-pied.vercel.app/">🔗Live Demo</a>
+  </tr>
+  <tr width='100%'>
+    <td width='10%' align='center'>Chess Improver</td>
+    <td width='30%' align='center'> Browser-based application with live on-game AI comments leveraging StockFish API and ChatGPT API. (Under Development)</td>
+    <td width='40%' align='center'><img src="https://skillicons.dev/icons?i=ts,angular,sass,nodejs,html" /></td>
+    <td width='10%' align='center'><a href = "https://github.com/khemssharma/ChessImprover">🔗Source</a></td>
+    <td width='10%' align='center'><a href = "https://chess-improver.vercel.app/">🔗Live Demo</a>
+  </tr>
+  <tr width='100%'>
+    <td width='10%' align='center'>Law-Firm Website</td>
+    <td width='30%' align='center'>An elegant website for your for your customers' queries in accordance to Bar Council of India </td>
+    <td width='40%' align='center'><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,js,html" /></td>
+    <td width='10%' align='center'><a href = "https://github.com/khemssharma/LawFirm">🔗Source</a></td>
+    <td width='10%' align='center'><a href = "https://lawfirm-drab.vercel.app/">🔗 Live Demo</a></td>
+  </tr>
+  <tr width='100%'>
+    <td width='10%' align='center'>3D Portfolio</td>
+    <td width='25%' align='center'> Portfolio website with seamless animations and 3D models to bring your assets to life!</td>
+    <td width='50%' align='center'><img src="https://skillicons.dev/icons?i=react,threejs,tailwind,js,html" /></td>
+    <td width='10%' align='center'><a href = "https://github.com/khemssharma/3dPortfolio">🔗Source</a></td>
+    <td width='10%' align='center'><a href = "http://ayushportfolio-teal.vercel.app/">🔗 Live Demo</a></td>
+  </tr>
+</table>
 
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hello, I'm <a href="http://ayushportfolio-teal.vercel.app"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Ayush's GitHub Avatar" width="45px"/> Ayush</a>! <div align="center"><img align="right" src="https://komarev.com/ghpvc/?username=khemssharma" alt="GitHub profile views counter"></div>
-</h1>  
-
-<div>
-  <img src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif" width="300px" align="right" alt="A professional animation coder gif"/>
+<div align='center'>
+  
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=juicyfresh)
 </div>
 
-### <div>
-<ul>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Bhopal, India</strong>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="http://ayushportfolio-teal.vercel.app" target="_blank"><strong>View Portfolio</strong></a>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:khemcodes@gmail.com"><strong>khemcodes@gmail.com</strong></a>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Building <strong>Chess Improver</strong>, an AI-powered chess assistant. 
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>AI</strong> to create smarter user experiences
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always diving into <strong>new tech</strong> to stay ahead
-  </li>
-</ul>
+[<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">]()</br></br>
 
-## 🚀 Featured Projects
-
-- <a href = "https://github.com/khemssharma/StudyNotion">**Studynotion**</a> 📖 -
-  Education platform with features like video lectures uploading, buying/selling and streaming  </br>  </br>
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)    </br>  </br>
-  
-- <a href = "https://github.com/khemssharma/ChessImprover">**Chess Improver**</a> 🧠
-  An AI-driven app designed to help users improve their chess strategies. Leveraging neural networks for move analysis, it provides insights to sharpen skills.   </br>  </br>
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  </br>  </br>
-
-- <a href = "https://github.com/khemssharma/PetGrove-App">**Pet Grove** </a>🐾
-  A mobile marketplace for pet products, featuring a personalized UI and streamlined shopping experience. Includes an add-to-cart feature and a wishlist.  </br>  </br>
-  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-  ![ContextAPI](https://img.shields.io/badge/ContextAPI-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-  ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)  </br>  </br>
-  
-- <a href = "https://github.com/khemssharma/3dPortfolio">**Personal Portfolio**</a> 🌐
-  A modern, responsive web portfolio showcasing my projects, built with React and optimized for mobile and desktop views.  </br>  </br>
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
-  ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)  </br>  </br>
-
-
-## <div> 🌐 Let's Stay Connected</div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khemssharma) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
-
-
-## 📊 GitHub Stats
+<div align='center'><h1> 📊 GitHub Stats </h1></div>
+<p align="center"> <img width="200px" align="center" src="https://komarev.com/ghpvc/?username=khemssharma&style=flat-square&color=7a49a5" alt="Profile views"/> </p>
 <div align="center">
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution grid snake animation" src="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=juicyfresh&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&theme=radical&hide_border=true&layout=compact&bg_color=0E1117" alt="Top Languages" />
+  <img src="https://readme-stats-lake-seven.vercel.app/api/top-langs/?username=khemssharma&layout=donut&theme=algolia&hide_border=true" alt="Top Languages" />
 </p>
 
-<!--
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=khemssharma&theme=radical&hide_border=true)
--->
-
-
-<!-- 
- ## <img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon"> GitHub Summary
-
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khemssharma&theme=juicyfresh&layout=compact)
- 
- -->
- 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=juicyfresh)
-
----
-  ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=khemssharma&theme=juicyfresh&column=-1&no-frame=true&no-bg=true)
-
  <div align='center'>
- Ride the waves, Good vibes ahead!
+   
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=khemssharma&theme=juicyfresh&column=-1&no-frame=true&no-bg=true) 
+
 </div>
 
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+[<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">]()</br></br>
+
+<div align='center'>
+  Ride the waves, Good vibes ahead!
+</div>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
