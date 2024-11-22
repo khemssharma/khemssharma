@@ -108,7 +108,7 @@
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=juicyfresh&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://readme-stats-lake-seven.vercel.app/api/top-langs/?username=khemssharma&layout=donut&theme=algolia&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-stats-lake-seven.vercel.app/api/top-langs/?username=khemssharma&layout=donut&theme=juicyfresh&hide_border=true&no-bg=true" alt="Top Languages" />
 </p>
 
  <div align='center'>
