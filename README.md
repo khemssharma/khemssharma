@@ -17,8 +17,8 @@
     <td width='20%' align='center'><strong>Name<strong></td>
     <td width='30%' align='center'><strong>Summary<strong></td>
     <td width='30%' align='center'><strong>Technologies Used<strong></td>
-    <td width='10%' align='center'><strong>Source Code<strong></a></td>
-    <td width='10%' align='center'><strong>Live Demo<strong></a>
+    <td width='10%' align='center'><strong>Source Code<strong></td>
+    <td width='10%' align='center'><strong>Live Demo<strong></td>
   </tr>
   <tr width='100%'>
     <td width='20%' align='center'>Studynotion</td>
@@ -97,7 +97,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</br></br>
+<br><br>
 
 <div align='center'><h1> 📊 GitHub Stats </h1></div>
 <p align="center"> <img width="200px" align="center" src="https://komarev.com/ghpvc/?username=khemssharma&style=flat-square&color=7a49a5" alt="Profile views"/> </p>
@@ -120,7 +120,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</br></br>
+<br><br>
 
 <div align='center'>
   Ride the waves, Good vibes ahead!
