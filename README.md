@@ -70,7 +70,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khemssharma) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 
 
-## <img align="center" width="30px" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon" />  GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   
   <picture>
