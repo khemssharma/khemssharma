@@ -58,7 +58,8 @@
 </table>
 <div align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=juicyfresh)
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=juicyfresh">
+
 </div>
 
 <h1 align='center'> 🛠 Skills </h1>
@@ -95,7 +96,8 @@
   <img src="https://skillicons.dev/icons?i=github,gitlab,git,windows,powershell,linux,bash,docker,arduino" />
 </p>
 
-[<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">]()</br></br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</br></br>
 
 <div align='center'><h1> 📊 GitHub Stats </h1></div>
 <p align="center"> <img width="200px" align="center" src="https://komarev.com/ghpvc/?username=khemssharma&style=flat-square&color=7a49a5" alt="Profile views"/> </p>
@@ -113,12 +115,12 @@
 
  <div align='center'>
    
-![Profile Trophies](https://github-profile-trophy.vercel.app/?username=khemssharma&theme=juicyfresh&column=-1&no-frame=true&no-bg=true&column=4)
-
+<img src="https://github-profile-trophy.vercel.app/?username=khemssharma&theme=juicyfresh&column=-1&no-frame=true&no-bg=true&column=4">
 
 </div>
 
-[<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">]()</br></br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</br></br>
 
 <div align='center'>
   Ride the waves, Good vibes ahead!
