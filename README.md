@@ -59,7 +59,7 @@
 </table>
 <div align="center">
   <br><br>
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=juicyfresh">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=light">
 
 </div>
 <br><br>
