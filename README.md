@@ -12,54 +12,17 @@
   <a href="https://ayushportfolio-teal.vercel.app"><img src="https://readme-typing-svg.herokuapp.com/?lines=Website;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<div align='center'><h1> 🚀 Featured Projects </h3></div>
-<table width='100%' align='center'>
-  <tr width='100%'>
-    <td width='20%' align='center'><strong>Name<strong></td>
-    <td width='30%' align='center'><strong>Summary<strong></td>
-    <td width='30%' align='center'><strong>Technologies Used<strong></td>
-    <td width='10%' align='center'><strong>Source Code<strong></td>
-    <td width='10%' align='center'><strong>Live Demo<strong></td>
-  </tr>
-  <tr width='100%'>
-    <td width='20%' align='center'>Studynotion</td>
-    <td width='30%' align='center'>Education platform with features like video lectures uploading, buying/selling and streaming</td>
-    <td width='30%' align='center'>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,js,redux" />
-      <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs" />
-    </td>
-    <td width='10%' align='center'><a href = "https://github.com/khemssharma/StudyNotion"> 🔗GitHub</a></td>
-    <td width='10%' align='center'><a href = "https://studynotion-six-pied.vercel.app/">🔗Website</a></td>
-  </tr>
-  <tr width='100%'>
-    <td width='20%' align='center'>Chess Improver</td>
-    <td width='30%' align='center'> Browser-based application with live on-game AI comments leveraging StockFish API and ChatGPT API. (Under Development)</td>
-    <td width='30%' align='center'><img src="https://skillicons.dev/icons?i=angular,ts,sass,html" /></td>
-    <td width='10%' align='center'><a href = "https://github.com/khemssharma/ChessImprover">🔗Github</a></td>
-    <td width='10%' align='center'><a href = "https://chess-improver.vercel.app/">🔗Website</a></td>
-  </tr>
-  <tr width='100%'>
-    <td width='20%' align='center'>Law-Firm Website</td>
-    <td width='30%' align='center'>An elegant website for your customers' queries in accordance of Bar Council of India </td>
-    <td width='30%' align='center'>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,js,html" />
-      <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs" />
-    </td>
-    <td width='10%' align='center'><a href = "https://github.com/khemssharma/LawFirm">🔗GitHub</a></td>
-    <td width='10%' align='center'><a href = "https://lawfirm-drab.vercel.app/">🔗 Website</a></td>
-  </tr>
-  <tr width='100%'>
-    <td width='20%' align='center'>3D Portfolio</td>
-    <td width='30%' align='center'> Portfolio website with seamless animations and 3D models to bring your assets to life!</td>
-    <td width='30%' align='center'>
-      <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,js" /></td>
-    <td width='10%' align='center'><a href = "https://github.com/khemssharma/3dPortfolio">🔗GitHub</a></td>
-    <td width='10%' align='center'><a href = "http://ayushportfolio-teal.vercel.app/">🔗 Website</a></td>
-  </tr>
-</table>
-<div align="center">
-  <br><br>
+<div align='center'><h1> 🚀 Featured Projects </h1></div>
+  <div align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=StudyNotion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=ChessImprover">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=LawFirm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=3dPortfolio">
+  </div>
+<br>
+<div align='center'><div align='center'><h3> ✍️ Random Dev Quotes </h3></div>
 <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=light">
+</div>
 
 </div>
 <br><br>
@@ -112,7 +75,7 @@
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=juicyfresh&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://readme-stats-lake-seven.vercel.app/api/top-langs/?username=khemssharma&layout=donut&theme=juicyfresh&hide_border=true&no-bg=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&layout=donut" alt="Top Languages" />
 </p>
 
  <div align='center'>
