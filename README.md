@@ -4,8 +4,14 @@
 <div align='center'>
   <h3> 🌐 Let's Stay Connected <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
   </h3>
+    <a href="mailto:khemcodes@gmail.com">
+      <img src="https://img.icons8.com/?size=75&id=ZsqwnJaWUi9o&format=png&color=000000" alt="LinkedIn"/>
+    </a>
     <a href="https://linkedin.com/in/khemssharma">
-      <img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/>
+      <img src="https://img.icons8.com/?size=80&id=13930&format=png&color=000000" alt="LinkedIn"/>
+    </a>
+    <a href="http://instagram.com/ayush_.sharma7">
+      <img src="https://img.icons8.com/?size=75&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram"/>
     </a>
 </div>
 <p align="center">
