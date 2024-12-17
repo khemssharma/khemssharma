@@ -14,10 +14,10 @@
 
 <div align='center'><h1> 🚀 Featured Projects </h1></div>
   <div align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=StudyNotion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=ChessImprover">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=LawFirm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=3dPortfolio">
+    <a href="https://github.com/khemssharma/StudyNotion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=StudyNotion"></a>
+    <a href="https://github.com/khemssharma/StudyNotion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=ChessImprover"></a>
+    <a href="https://github.com/khemssharma/StudyNotion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=LawFirm"></a>
+    <a href="https://github.com/khemssharma/StudyNotion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=3dPortfolio"></a>
   </div>
 <br>
 <div align='center'><div align='center'><h3> ✍️ Random Dev Quotes </h3></div>
