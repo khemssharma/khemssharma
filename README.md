@@ -14,14 +14,38 @@
 
 <div align='center'><h1> 🚀 Featured Projects </h1></div>
   <div align='center'>
-    <a href="https://github.com/khemssharma/StudyNotion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=StudyNotion"></a>
-    <a href="https://github.com/khemssharma/StudyNotion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=ChessImprover"></a>
-    <a href="https://github.com/khemssharma/StudyNotion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=LawFirm"></a>
-    <a href="https://github.com/khemssharma/StudyNotion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=3dPortfolio"></a>
+    <a href="https://github.com/khemssharma/StudyNotion">
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=StudyNotion&theme=dark" media="(prefers-color-scheme: dark)">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=StudyNotion&theme=light" alt="GitHub Repo Card">
+      </picture>
+    </a>
+    <a href="https://github.com/khemssharma/ChessImprover">
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=ChessImprover&theme=dark" media="(prefers-color-scheme: dark)">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=ChessImprover&theme=light" alt="GitHub Repo Card">
+      </picture>
+    </a>
+    <a href="https://github.com/khemssharma/3DPortfolio">
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=3DPortfolio&theme=dark" media="(prefers-color-scheme: dark)">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=3DPortfolio&theme=light" alt="GitHub Repo Card">
+      </picture>
+    </a>
+    <a href="https://github.com/khemssharma/LawFirm">
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=LawFirm&theme=dark" media="(prefers-color-scheme: dark)">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=LawFirm&theme=light" alt="GitHub Repo Card">
+      </picture>
+    </a>
   </div>
 <br>
+
 <div align='center'><div align='center'><h3> ✍️ Random Dev Quotes </h3></div>
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=light">
+  <picture>
+  <source srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" media="(prefers-color-scheme: dark)">
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=light" alt="GitHub Quote">
+  </picture>
 </div>
 
 </div>
@@ -74,8 +98,18 @@
   </picture>
 </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=juicyfresh&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&layout=donut" alt="Top Languages" />
+  <picture>
+    <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
+    media="(prefers-color-scheme: dark)">
+    <img 
+    src="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=juicyfresh&hide_border=true&include_all_commits=true&count_private=true" 
+    alt="Stats">
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&layout=donut&theme=dark" media="(prefers-color-scheme: dark)">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&layout=donut&theme=juicyfresh" alt="Top Languages">
+  </picture>
 </p>
 
  <div align='center'>
