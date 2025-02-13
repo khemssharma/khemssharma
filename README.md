@@ -1,27 +1,30 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+github+profile!;&font=Pacifico&center=true&width=650&height=120&color=7a49a5&vCenter=true&size=45%22&pause=1000">
+  <a href="https://ayushportfolio-teal.vercel.app">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+GitHub+Profile!" alt="Typing SVG"/>    </a>
 </div>
-
 <div align='center'>
-  <h3> 🌐 Let's Stay Connected <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
+  <h3> Let's Stay Connected <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
   </h3>
+    <a href="https://ayushportfolio-teal.vercel.app">
+      <img src="https://img.icons8.com/?size=65&id=53871&format=png&color=000000" alt="Website"><a href="https://ayushportfolio-teal.vercel.app"></a> </img>
+    </a>
     <a href="mailto:khemcodes@gmail.com">
-      <img src="https://img.icons8.com/?size=75&id=ZsqwnJaWUi9o&format=png&color=000000" alt="LinkedIn"><a href="mailto:khemcodes@gmail.com"></a> </img>
+      <img src="https://img.icons8.com/?size=65&id=ZsqwnJaWUi9o&format=png&color=000000" alt="LinkedIn"><a href="mailto:khemcodes@gmail.com"></a> </img>
     </a>
     <a href="https://linkedin.com/in/khemssharma">
-      <img src="https://img.icons8.com/?size=80&id=13930&format=png&color=000000" alt="LinkedIn"><a href="https://linkedin.com/in/khemssharma"></a> </img>
-    </a>
-    <a href="https://leetcode.com/u/khemssharma">
-      <img src="https://img.icons8.com/?size=80&id=fiCYSJOnXi7E&format=png&color=000000" alt="LeetCode"><a href="https://leetcode.com/u/khemssharma"></a> </img>
+      <img src="https://img.icons8.com/?size=65&id=13930&format=png&color=000000" alt="LinkedIn"><a href="https://linkedin.com/in/khemssharma"></a> </img>
     </a>
     <a href="http://instagram.com/ayush_.sharma7">
-      <img src="https://img.icons8.com/?size=75&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram"><a href="http://instagram.com/ayush_.sharma7"></a> </img>
+      <img src="https://img.icons8.com/?size=65&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram"><a href="http://instagram.com/ayush_.sharma7"></a> </img>
+    </a>
+    <a href="https://leetcode.com/u/khemssharma">
+      <img src="https://img.icons8.com/?size=65&id=fiCYSJOnXi7E&format=png&color=000000" alt="LeetCode"><a href="https://leetcode.com/u/khemssharma"></a> </img>
     </a>
 </div>
-<p align="center">
-  <a href="https://ayushportfolio-teal.vercel.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=58a6ff&center=true&vCenter=true&random=true&width=500&lines=ayushportfolio.vercel.app" alt="Typing SVG"/>    </a>
-</p><br>
+
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br>
 
 <div align='center'><h1> 🚀 Featured Projects </h1></div>
   <div align='center'>
@@ -58,7 +61,10 @@
     <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=light" alt="GitHub Quote">
   </picture>
 </div>
-<br><br>
+
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br>
 
 <h1 align='center'> 🛠 Skills </h1>
 
@@ -94,8 +100,9 @@
   <img src="https://skillicons.dev/icons?i=github,gitlab,git,windows,powershell,linux,bash,docker,arduino" />
 </p>
 
+<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<br><br>
+<br>
 
 <div align='center'><h1> 📊 GitHub Stats </h1></div>
 <p align="center"> <img width="200px" align="center" src="https://komarev.com/ghpvc/?username=khemssharma&style=flat-square&color=7a49a5" alt="Profile views"/> </p>
@@ -127,8 +134,9 @@
 
 </div>
 
+<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<br><br>
+<br>
 
 <div align='center'>
   Ride the waves, Good vibes ahead!
