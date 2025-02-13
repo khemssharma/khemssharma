@@ -2,6 +2,7 @@
   <a href="https://ayushportfolio-teal.vercel.app">
     <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+GitHub+Profile!" alt="Typing SVG"/>    </a>
 </div>
+
 <div align='center'>
   <h3> Let's Stay Connected <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
   </h3>
@@ -21,6 +22,7 @@
       <img src="https://img.icons8.com/?size=65&id=fiCYSJOnXi7E&format=png&color=000000" alt="LeetCode"><a href="https://leetcode.com/u/khemssharma"></a> </img>
     </a>
 </div>
+<br><br>
 
 <div align='center'><h1> 🚀 Featured Projects </h1></div>
   <div align='center'>
