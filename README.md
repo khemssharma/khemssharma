@@ -1,22 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+github+profile!;&font=Pacifico&center=true&width=650&height=120&color=7a49a5&vCenter=true&size=45%22&pause=1000">
 </div>
+
 <div align='center'>
   <h3> 🌐 Let's Stay Connected <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
   </h3>
     <a href="mailto:khemcodes@gmail.com">
-      <img src="https://img.icons8.com/?size=75&id=ZsqwnJaWUi9o&format=png&color=000000" alt="LinkedIn"/>
+      <img src="https://img.icons8.com/?size=75&id=ZsqwnJaWUi9o&format=png&color=000000" alt="LinkedIn"><a href="mailto:khemcodes@gmail.com"></a> </img>
     </a>
     <a href="https://linkedin.com/in/khemssharma">
-      <img src="https://img.icons8.com/?size=80&id=13930&format=png&color=000000" alt="LinkedIn"/>
+      <img src="https://img.icons8.com/?size=80&id=13930&format=png&color=000000" alt="LinkedIn"><a href="https://linkedin.com/in/khemssharma"></a> </img>
+    </a>
+    <a href="https://leetcode.com/u/khemssharma">
+      <img src="https://img.icons8.com/?size=80&id=fiCYSJOnXi7E&format=png&color=000000" alt="LeetCode"><a href="https://leetcode.com/u/khemssharma"></a> </img>
     </a>
     <a href="http://instagram.com/ayush_.sharma7">
-      <img src="https://img.icons8.com/?size=75&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram"/>
+      <img src="https://img.icons8.com/?size=75&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram"><a href="http://instagram.com/ayush_.sharma7"></a> </img>
     </a>
 </div>
 <p align="center">
-  <a href="https://ayushportfolio-teal.vercel.app"><img src="https://readme-typing-svg.herokuapp.com/?lines=Website;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
+  <a href="https://ayushportfolio-teal.vercel.app">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=58a6ff&center=true&vCenter=true&random=true&width=500&lines=ayushportfolio.vercel.app" alt="Typing SVG"/>    </a>
+</p><br>
 
 <div align='center'><h1> 🚀 Featured Projects </h1></div>
   <div align='center'>
@@ -118,7 +123,7 @@
 
  <div align='center'>
    
-<img src="https://github-profile-trophy.vercel.app/?username=khemssharma&theme=juicyfresh&column=-1&no-frame=true&no-bg=true&column=4">
+[![trophy](https://github-profile-trophy.vercel.app/?username=khemssharma&theme=juicyfresh&column=-1&no-bg=true&column=4")]()
 
 </div>
 
