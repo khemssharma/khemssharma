@@ -38,18 +38,19 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=ChessImprover&theme=light" alt="GitHub Repo Card">
       </picture>
     </a>
-    <a href="https://github.com/khemssharma/3DPortfolio">
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=3DPortfolio&theme=dark" media="(prefers-color-scheme: dark)">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=3DPortfolio&theme=light" alt="GitHub Repo Card">
-      </picture>
-    </a>
     <a href="https://github.com/khemssharma/Chat-App">
       <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=Chat-App&theme=dark" media="(prefers-color-scheme: dark)">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=Chat-App&theme=light" alt="GitHub Repo Card">
       </picture>
     </a>
+    <a href="https://github.com/khemssharma/3DPortfolio">
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=3DPortfolio&theme=dark" media="(prefers-color-scheme: dark)">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=3DPortfolio&theme=light" alt="GitHub Repo Card">
+      </picture>
+    </a>
+    
   </div>
 <br>
 
