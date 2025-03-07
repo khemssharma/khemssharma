@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="https://ayushportfolio-teal.vercel.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+GitHub+Profile!" alt="Typing SVG"/>    </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+GitHub+Profile!" alt="Typing SVG"/>  
 </div>
 
 <div align='center'>
@@ -52,6 +51,41 @@
     </a>
     
   </div>
+
+<br>
+<br>
+
+<div align='center'><h1> 📊 GitHub Stats </h1></div>
+<p align="center"> <img width="200px" align="center" src="https://komarev.com/ghpvc/?username=khemssharma&style=flat-square&color=7a49a5" alt="Profile views"/> </p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+<p align="center">
+  <picture>
+    <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
+    media="(prefers-color-scheme: dark)">
+    <img 
+    src="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=juicyfresh&hide_border=true&include_all_commits=true&count_private=true" 
+    alt="Stats">
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&layout=donut&theme=dark" media="(prefers-color-scheme: dark)">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&layout=donut&theme=juicyfresh" alt="Top Languages">
+  </picture>
+</p>
+
+ <div align='center'>
+   
+[![trophy](https://github-profile-trophy.vercel.app/?username=khemssharma&theme=juicyfresh&column=-1&no-bg=true&column=4")]()
+
+</div>
+
+<br>
 <br>
 
 <div align='center'><div align='center'><h3> ✍️ Random Dev Quotes </h3></div>
@@ -62,7 +96,6 @@
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <br>
 
 <h1 align='center'> 🛠 Skills </h1>
@@ -98,40 +131,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,gitlab,git,windows,powershell,linux,bash,docker,arduino" />
 </p>
-
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<br>
-
-<div align='center'><h1> 📊 GitHub Stats </h1></div>
-<p align="center"> <img width="200px" align="center" src="https://komarev.com/ghpvc/?username=khemssharma&style=flat-square&color=7a49a5" alt="Profile views"/> </p>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-<p align="center">
-  <picture>
-    <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
-    media="(prefers-color-scheme: dark)">
-    <img 
-    src="https://github-readme-stats.vercel.app/api?username=khemssharma&theme=juicyfresh&hide_border=true&include_all_commits=true&count_private=true" 
-    alt="Stats">
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&layout=donut&theme=dark" media="(prefers-color-scheme: dark)">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemssharma&layout=donut&theme=juicyfresh" alt="Top Languages">
-  </picture>
-</p>
-
- <div align='center'>
-   
-[![trophy](https://github-profile-trophy.vercel.app/?username=khemssharma&theme=juicyfresh&column=-1&no-bg=true&column=4")]()
-
-</div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
