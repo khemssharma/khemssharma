@@ -96,43 +96,6 @@
 </div>
 
 <br>
-<br>
-
-<h1 align='center'> 🛠 Skills </h1>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,flask  ,css,tailwind,sass,bootstrap" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,firebase,appwrite,discordjs,express,nodejs,npm,vite" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,mysql" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,py,rust,go,c,cpp" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ae,ps,blender" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,cloudflare" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,atom,sublime,pycharm,replit" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,git,windows,powershell,linux,bash,docker,arduino" />
-</p>
-
-<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <br>
 
