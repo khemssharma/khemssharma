@@ -86,16 +86,6 @@
 </div>
 
 <br>
-<br>
-
-<div align='center'><div align='center'><h3> ✍️ Random Dev Quotes </h3></div>
-  <picture>
-  <source srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" media="(prefers-color-scheme: dark)">
-    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=light" alt="GitHub Quote">
-  </picture>
-</div>
-
-<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <br>
 
