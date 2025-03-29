@@ -23,38 +23,6 @@
 </div>
 <br><br>
 
-<div align='center'><h1> 🚀 Featured Projects </h1></div>
-  <div align='center'>
-    <a href="https://github.com/khemssharma/StudyNotion">
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=StudyNotion&theme=dark" media="(prefers-color-scheme: dark)">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=StudyNotion&theme=light" alt="GitHub Repo Card">
-      </picture>
-    </a>
-    <a href="https://github.com/khemssharma/ChessImprover">
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=ChessImprover&theme=dark" media="(prefers-color-scheme: dark)">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=ChessImprover&theme=light" alt="GitHub Repo Card">
-      </picture>
-    </a>
-    <a href="https://github.com/khemssharma/Chat-App">
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=Chat-App&theme=dark" media="(prefers-color-scheme: dark)">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=Chat-App&theme=light" alt="GitHub Repo Card">
-      </picture>
-    </a>
-    <a href="https://github.com/khemssharma/3DPortfolio">
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=3DPortfolio&theme=dark" media="(prefers-color-scheme: dark)">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemssharma&repo=3DPortfolio&theme=light" alt="GitHub Repo Card">
-      </picture>
-    </a>
-    
-  </div>
-
-<br>
-<br>
-
 <div align='center'><h1> 📊 GitHub Stats </h1></div>
 <p align="center"> <img width="200px" align="center" src="https://komarev.com/ghpvc/?username=khemssharma&style=flat-square&color=7a49a5" alt="Profile views"/> </p>
 <div align="center">
@@ -80,16 +48,8 @@
 </p>
 
  <div align='center'>
-   
-[![trophy](https://github-profile-trophy.vercel.app/?username=khemssharma&theme=juicyfresh&column=-1&no-bg=true&column=4")]()
 
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<br>
-
-<div align='center'>
-  Ride the waves, Good vibes ahead!
-</div>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=
