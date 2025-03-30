@@ -53,5 +53,3 @@
     <img alt="GitHub contribution grid snake animation" src="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
