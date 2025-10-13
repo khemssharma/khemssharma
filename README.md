@@ -6,11 +6,14 @@
 <div align='center'>
   <h3> Let's Stay Connected <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
   </h3>
-    <a href="https://ayushportfolio-teal.vercel.app">
-      <img src="https://img.icons8.com/?size=65&id=53871&format=png&color=000000" alt="Website"><a href="https://ayushportfolio-teal.vercel.app"></a> </img>
-    </a>
     <a href="mailto:khemcodes@gmail.com">
       <img src="https://img.icons8.com/?size=65&id=ZsqwnJaWUi9o&format=png&color=000000" alt="LinkedIn"><a href="mailto:khemcodes@gmail.com"></a> </img>
+    </a>
+    <a href="https://leetcode.com/u/khemssharma">
+      <img src="https://img.icons8.com/?size=65&id=fiCYSJOnXi7E&format=png&color=000000" alt="LeetCode"><a href="https://leetcode.com/u/khemssharma"></a> </img>
+    </a>
+    <a href="https://ayushportfolio-teal.vercel.app">
+      <img src="https://ayushportfolio-teal.vercel.app/assets/logo-c1063d16.svg" alt="Website" width="60px"><a href="https://ayushportfolio-teal.vercel.app"></a> </img>
     </a>
     <a href="https://linkedin.com/in/khemssharma">
       <img src="https://img.icons8.com/?size=65&id=13930&format=png&color=000000" alt="LinkedIn"><a href="https://linkedin.com/in/khemssharma"></a> </img>
@@ -18,8 +21,8 @@
     <a href="http://instagram.com/ayush_.sharma7">
       <img src="https://img.icons8.com/?size=65&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram"><a href="http://instagram.com/ayush_.sharma7"></a> </img>
     </a>
-    <a href="https://leetcode.com/u/khemssharma">
-      <img src="https://img.icons8.com/?size=65&id=fiCYSJOnXi7E&format=png&color=000000" alt="LeetCode"><a href="https://leetcode.com/u/khemssharma"></a> </img>
+    <a href="https://lichess.org/@/ayush3310">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Lichess_logo_2019.png" width="60px"> 
     </a>
 </div>
 <br><br>
