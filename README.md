@@ -19,7 +19,7 @@
       <img src="https://img.icons8.com/?size=65&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram"><a href="http://instagram.com/ayush_.sharma7"></a> </img>
     </a>
     <a href="https://lichess.org/@/ayush3310">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Lichess_logo_2019.png" width="60px"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Lichess_logo_2019.png" width="50px" height="55px"> 
     </a>
 </div>
 <br><br>
