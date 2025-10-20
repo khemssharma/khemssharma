@@ -13,7 +13,7 @@
       <img src="https://img.icons8.com/?size=65&id=13930&format=png&color=000000" alt="LinkedIn"><a href="https://linkedin.com/in/khemssharma"></a> </img>
     </a>
     <a href="https://ayushportfolio-teal.vercel.app">
-      <img src="https://ayushportfolio-teal.vercel.app/assets/logo-c1063d16.svg" alt="Website" width="60px"><a href="https://ayushportfolio-teal.vercel.app"></a> </img>
+      <img src="./images/logo.svg" alt="Website" width="60px"><a href="https://ayushportfolio-teal.vercel.app"></a> </img>
     </a>
     <a href="http://instagram.com/ayush_.sharma7">
       <img src="https://img.icons8.com/?size=65&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram"><a href="http://instagram.com/ayush_.sharma7"></a> </img>
