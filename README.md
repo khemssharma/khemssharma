@@ -30,8 +30,13 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution grid snake animation" src="https://github.com/khemssharma/khemssharma/blob/output/github-contribution-grid-snake.svg">
-  </picture>
+  </picture>    
 </div>
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khemssharma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=khemssharma&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div> -->
 
 <br><br>
 
