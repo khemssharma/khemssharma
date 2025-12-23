@@ -16,7 +16,7 @@
       <img src="./images/logo.svg" alt="Website" width="60px"><a href="https://ayushportfolio-teal.vercel.app"></a> </img>
     </a>
      <a href="https://www.upwork.com/freelancers/~010d52c1d962ccc0b8?qpn-profile-completeness=employment">
-      <img src="./images/logo.svg" alt="Website" width="60px"><a href="https://ayushportfolio-teal.vercel.app"></a> </img>
+      <img src="./images/upwork-round-logo.png" alt="Website" width="60px"><a href="https://ayushportfolio-teal.vercel.app"></a> </img>
     </a>
     <a href="http://instagram.com/ayush_.sharma7">
       <img src="https://img.icons8.com/?size=65&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram"><a href="http://instagram.com/ayush_.sharma7"></a> </img>
