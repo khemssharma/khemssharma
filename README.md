@@ -57,9 +57,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Chess](https://github.com/khemssharma/Chess) | Online chess from scratch with live demo | TypeScript |
+| [Chess](https://github.com/khemssharma/Chess) | Online chess from scratch with AI Trainer | TypeScript |
 | [StudyNotion](https://github.com/khemssharma/StudyNotion) | Scalable full-stack education platform using Data Science & GenAI  | React, MongoDB, Node.js |
-| [Chat-App](https://github.com/khemssharma/Chat-App) | Real-time chat application | Socket.io, MERN |
+| [Chat-App](https://github.com/khemssharma/Chat-App) | Real-time chat application with End-to-End Encryption | Socket.io, MERN |
 | [saucedemo-QA](https://github.com/khemssharma/saucedemo-QA) | End-to-end automation testing framework | Python, Selenium, Pytest |
 | [ERP-System](https://github.com/khemssharma/ERP-System) | Construction operations management system | Full-Stack |
 
