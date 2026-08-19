@@ -13,10 +13,10 @@
 
 ## About Me
 
-- Software Engineer with experience in **Full-Stack Development** and **QA Automation**
-- Building scalable web apps with **React**, **Next.js**, **Node.js**, **MongoDB**
-- Automating test pipelines with **Python**, **Selenium**, **Pytest**, **Jira** integrations
-- 457+ contributions in the last year | 11,800+ profile views
+- Software Development & Automation Engineer building **scalable, AI-driven solutions** — bridging Data Science and DevOps
+- Full-stack development with **React**, **Next.js**, **Node.js**, **MongoDB**, and **Java**
+- Automating test pipelines with **Python**, **Selenium**, **Pytest**, **TestNG**, **Jira** integrations
+- 750+ contributions in the last year | 14,300+ profile views | 1.6k+ GitHub followers
 - Based in **Bhopal, India** | Open to full-time opportunities
 
 ---
@@ -37,17 +37,20 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **QA & Automation**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-orange?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Tools & Platforms**
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -57,18 +60,24 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Chess](https://github.com/khemssharma/Chess) | Online chess from scratch with AI Trainer | TypeScript |
-| [StudyNotion](https://github.com/khemssharma/StudyNotion) | Scalable full-stack education platform using Data Science & GenAI  | React, MongoDB, Node.js |
+| [Chess](https://github.com/khemssharma/Chess) | Online multiplayer chess server with a computer mode (play vs. Stockfish) and GenAI-powered post-game analysis | TypeScript |
+| [community-bots](https://github.com/khemssharma/community-bots) | Automation bots for community management and job hunting, with CI/CD pipelines via GitHub Actions | JavaScript, Node.js |
+| [job-alert-workflow](https://github.com/khemssharma/job-alert-workflow) | Automated 7 LPA+ job alert system monitoring Greenhouse, Lever, Naukri & LinkedIn daily | Python |
+| [StudyNotion](https://github.com/khemssharma/StudyNotion) | Full-stack EdTech platform with NCF-based recommendations, ETL pipelines & GenAI query support | React, MongoDB, Node.js |
+| [orangeHRM](https://github.com/khemssharma/orangeHRM) | End-to-end automation testing for OrangeHRM using Selenium, Java, TestNG and Maven | Java, Selenium |
 | [Chat-App](https://github.com/khemssharma/Chat-App) | Real-time chat application with End-to-End Encryption | Socket.io, MERN |
-| [saucedemo-QA](https://github.com/khemssharma/saucedemo-QA) | End-to-end automation testing framework | Python, Selenium, Pytest |
-| [ERP-System](https://github.com/khemssharma/ERP-System) | Construction operations management system | Full-Stack |
+| [saucedemo-QA](https://github.com/khemssharma/saucedemo-QA) | End-to-end automation testing framework with Page Object Model | Python, Selenium, Pytest |
 
 ---
 
-## GitHub Stats
+## Achievements & Stats
+
+**GitHub:** Pull Shark · Quickdraw · YOLO · Starstruck badges | 50+ stars earned across repos
+
+**LeetCode:** 545+ problems solved (Easy 221 · Medium 286 · Hard 38) | Contest rating 1,413 | 11 badges earned, including the 50-Day Streak badge
 
 <div align="center">
-  
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=khemssharma&theme=tokyonight&hide_border=true)
 
 </div>
