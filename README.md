@@ -11,13 +11,6 @@
 
 ---
 
-## About Me
-
-- Software Development & Automation Engineer building **scalable, AI-driven solutions** — bridging Data Science and DevOps
-- Full-stack development with **React**, **Next.js**, **Node.js**, **MongoDB**, and **Java**
-- Automating test pipelines with **Python**, **Selenium**, **Pytest**, **TestNG**, **Jira** integrations
----
-
 ## Tech Stack
 
 **Frontend**
