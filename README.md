@@ -56,25 +56,7 @@
 
 ---
 
-## Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Chess](https://github.com/khemssharma/Chess) | Online multiplayer chess server with a computer mode (play vs. Stockfish) and GenAI-powered post-game analysis | TypeScript |
-| [community-bots](https://github.com/khemssharma/community-bots) | Automation bots for community management and job hunting, with CI/CD pipelines via GitHub Actions | JavaScript, Node.js |
-| [job-alert-workflow](https://github.com/khemssharma/job-alert-workflow) | Automated 7 LPA+ job alert system monitoring Greenhouse, Lever, Naukri & LinkedIn daily | Python |
-| [StudyNotion](https://github.com/khemssharma/StudyNotion) | Full-stack EdTech platform with NCF-based recommendations, ETL pipelines & GenAI query support | React, MongoDB, Node.js |
-| [orangeHRM](https://github.com/khemssharma/orangeHRM) | End-to-end automation testing for OrangeHRM using Selenium, Java, TestNG and Maven | Java, Selenium |
-| [Chat-App](https://github.com/khemssharma/Chat-App) | Real-time chat application with End-to-End Encryption | Socket.io, MERN |
-| [saucedemo-QA](https://github.com/khemssharma/saucedemo-QA) | End-to-end automation testing framework with Page Object Model | Python, Selenium, Pytest |
-
----
-
-## Achievements & Stats
-
-**GitHub:** Pull Shark · Quickdraw · YOLO · Starstruck badges | 50+ stars earned across repos
-
-**LeetCode:** 545+ problems solved (Easy 221 · Medium 286 · Hard 38) | Contest rating 1,413 | 11 badges earned, including the 50-Day Streak badge
+## GitHub Stats
 
 <div align="center">
 
