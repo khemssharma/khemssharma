@@ -16,9 +16,6 @@
 - Software Development & Automation Engineer building **scalable, AI-driven solutions** — bridging Data Science and DevOps
 - Full-stack development with **React**, **Next.js**, **Node.js**, **MongoDB**, and **Java**
 - Automating test pipelines with **Python**, **Selenium**, **Pytest**, **TestNG**, **Jira** integrations
-- 750+ contributions in the last year | 14,300+ profile views | 1.6k+ GitHub followers
-- Based in **Bhopal, India** | Open to full-time opportunities
-
 ---
 
 ## Tech Stack
